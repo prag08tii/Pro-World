@@ -78,7 +78,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'proworld_db',
         'USER': 'postgres',
-        'PASSWORD': 'ganja_fukel',
+        'PASSWORD': 'shreya2208',
         'HOST': 'localhost',
         'PORT': '5432',
     }
